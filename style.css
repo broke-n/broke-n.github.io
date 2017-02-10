@@ -1,10 +1,8 @@
-body {
-	background-color: white;
-}
-
 h1 {
 	color: #b5e3fc;
-        text-align: center;
+    text-align: center;
 }
 
-
+html {
+  cursor: url(http://cur.cursors-4u.net/food/foo-1/foo9.cur), default;
+}
